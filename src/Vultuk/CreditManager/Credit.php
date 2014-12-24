@@ -6,7 +6,6 @@
      * Class Credit
      * @package Clix\CreditManager
      * @author Simon Skinner <s.skinner@clix.co.uk>
-     * @since ${DATE}
      */
     class Credit
     {
