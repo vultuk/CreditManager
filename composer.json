@@ -1,5 +1,5 @@
 {
-	"name": "Vultuk/CreditManager",
+	"name": "vultuk/credit-manager",
 	"require": {
 		"phpspec/phpspec": "~2.0",
         "nesbot/Carbon": "*"
